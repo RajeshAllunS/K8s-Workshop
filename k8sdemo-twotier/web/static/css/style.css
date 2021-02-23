@@ -1,0 +1,14 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+.k8s {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+  width: 10%;
+}
